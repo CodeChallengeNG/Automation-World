@@ -15,7 +15,7 @@ And you should be stirring at your food of choice at any moment.
 
 
 
-#2. Size 
+#2. SALE NOTIFICATION FOR ALL THE STUFF YOU WISH TO BUY ON DIFFERENT WEBSITES.  
 
 In preparation of christmas shopping, you can create a python script that would pull the price of shoes (or anything else you wish to buy) from different websites, that way you will know which item goes on sale without having to go check the websites yourself.
 Again i have done this in a 2 step process. A python script and a bash script to call the python script. 
